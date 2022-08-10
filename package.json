@@ -1,0 +1,19 @@
+{
+  "name": "@sifatul/simple-github-package",
+  "version": "1.0.0",
+  "description": "simple example of how to make a github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@Sifatul"
+  },
+  "repository":"https://github.com/Sifatul/simple-github-package.git",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sifatul/simple-github-package/issues"
+  },
+  "homepage": "https://github.com/Sifatul/simple-github-package#readme"
+}
